@@ -1,4 +1,3 @@
-# Home Appliance Inventory Dashboard
 
 An interactive Power BI dashboard that analyses inventory, sales and profit across 7 store locations for electronics and furniture products. It helps track remaining stock, spot products that need restocking, and compare store performance.
 
