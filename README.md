@@ -31,7 +31,7 @@ An interactive Power BI dashboard that analyses inventory, sales and profit acro
 
 ## Files
 - `Home Appliances.pbix`: the Power BI dashboard file
-- `Home Appliance Inventory.xlsx`: the dataset used
+- `Home Appliance Inventory.csv`: the dataset used
 
 ## How to Open
 Download the `.pbix` file and open it with Power BI Desktop (free).
