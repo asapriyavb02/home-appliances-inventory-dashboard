@@ -1,0 +1,500 @@
+Data,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Product ID,Product Name,Product Type,Category,Supplier,Purchase Price ($),Selling Price ($),Purchased Stock Quantity,Restock Level,Supplier Lead Time (Days),Units Sold,Store Location,Supplier Rating,Product Description
+PID001,Metal Frame Bed,Bed Frame,Furniture,Elite Distributors,863.68,1200.5152,108,38,13,48,Chicago,2.9,A sturdy and stylish bed frame with ample storage options.
+PID002,King Size Bed,Bed Frame,Furniture,Fast Retail,1275.74,1773.2786,182,22,2,161,Chicago,3.8,A sturdy and stylish bed frame with ample storage options.
+PID003,Queen Size Bed,Bed Frame,Furniture,Global Traders,323.75,450.0125,175,22,3,124,Chicago,3.7,A sturdy and stylish bed frame with ample storage options.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+PID006,Storage Bed,Bed Frame,Furniture,Global Traders,1327.28,1844.9192,64,20,5,42,Chicago,4.5,A sturdy and stylish bed frame with ample storage options.
+PID023,JBL Charge 5,Bluetooth Speaker,Electronics,Fast Retail,185.38,257.6782,47,26,12,20,Chicago,2.5,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID024,Ultimate Ears Boom 3,Bluetooth Speaker,Electronics,Elite Distributors,1822.72,2533.5808,28,39,12,15,Chicago,3.1,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID028,Sony SRS-XB43,Bluetooth Speaker,Electronics,Urban Supply Co.,554.35,770.5465,94,24,6,75,Chicago,4.3,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID029,Bose SoundLink Revolve+,Bluetooth Speaker,Electronics,Urban Supply Co.,1592.78,2213.9642,43,19,8,23,Chicago,4,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+PID040,Marshall Emberton,Bluetooth Speaker,Electronics,Urban Supply Co.,452.13,628.4607,58,47,9,43,Chicago,3.7,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID045,Wooden Bookshelf,Bookshelf,Furniture,Elite Distributors,1333.56,1853.6484,124,29,4,38,Chicago,2.9,A modern bookshelf with multiple compartments for books and decorative items.
+PID046,Metal Bookshelf,Bookshelf,Furniture,Elite Distributors,1097.59,1525.6501,170,44,7,107,Chicago,4.4,A modern bookshelf with multiple compartments for books and decorative items.
+PID049,Modular Bookshelf,Bookshelf,Furniture,Global Traders,1293.08,1797.3812,131,46,4,77,Chicago,4,A modern bookshelf with multiple compartments for books and decorative items.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+PID050,Glass Bookshelf,Bookshelf,Furniture,Elite Distributors,886.71,1232.5269,55,39,13,19,Chicago,3.7,A modern bookshelf with multiple compartments for books and decorative items.
+PID058,Wall-mounted Bookshelf,Bookshelf,Furniture,Urban Supply Co.,402.93,560.0727,179,28,11,124,Chicago,4.1,A modern bookshelf with multiple compartments for books and decorative items.
+PID068,Panasonic Lumix GH6,Camera,Electronics,Elite Distributors,808.66,1124.0374,62,19,10,55,Chicago,4.7,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID069,Fujifilm X-T5,Camera,Electronics,Urban Supply Co.,986.94,1371.8466,26,50,5,15,Chicago,3.9,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID071,Canon EOS R5,Camera,Electronics,Elite Distributors,1802.96,2506.1144,81,33,14,32,Chicago,3,A professional-grade camera with high-resolution imaging and video recording capabilities.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+PID073,Sony Alpha A7 IV,Camera,Electronics,Global Traders,1585.3,2203.567,43,18,8,43,Chicago,2.8,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID074,Nikon Z9,Camera,Electronics,Global Traders,406.17,564.5763,100,13,3,91,Chicago,4,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID085,Round Dining Table,Dining Table,Furniture,Global Traders,1473.76,2048.5264,133,40,9,103,Chicago,3.3,A durable and elegant dining table that complements any dining room decor.
+PID086,Marble Dining Table,Dining Table,Furniture,Global Traders,87.53,121.6667,53,10,13,51,Chicago,3.9,A durable and elegant dining table that complements any dining room decor.
+PID088,Glass Dining Table,Dining Table,Furniture,Global Traders,484.55,673.5245,198,24,6,119,Chicago,3.7,A durable and elegant dining table that complements any dining room decor.
+PID092,Expandable Dining Table,Dining Table,Furniture,Global Traders,375.43,521.8477,52,23,13,29,Chicago,4.8,A durable and elegant dining table that complements any dining room decor.
+PID094,Wooden Dining Table,Dining Table,Furniture,Global Traders,706.23,981.6597,25,7,11,21,Chicago,3.4,A durable and elegant dining table that complements any dining room decor.
+PID114,Apple AirPods Max,Headphones,Electronics,Global Traders,1991.36,2767.9904,17,10,15,7,Chicago,2.9,High-quality noise-canceling headphones for an immersive audio experience.
+PID115,Sony WH-1000XM5,Headphones,Electronics,Fast Retail,1135.88,1578.8732,55,28,3,45,Chicago,4.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID117,Sennheiser HD 660S,Headphones,Electronics,Global Traders,579.36,805.3104,10,36,10,8,Chicago,3.8,High-quality noise-canceling headphones for an immersive audio experience.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+PID118,JBL Tune 750,Headphones,Electronics,Elite Distributors,679.35,944.2965,20,33,6,10,Chicago,3.4,High-quality noise-canceling headphones for an immersive audio experience.
+PID121,Bose QuietComfort 45,Headphones,Electronics,Global Traders,1450.37,2016.0143,95,19,4,45,Chicago,5,High-quality noise-canceling headphones for an immersive audio experience.
+PID133,MacBook Air M2,Laptop,Electronics,Elite Distributors,992.43,1379.4777,91,33,7,62,Chicago,3.3,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID134,Dell XPS 15,Laptop,Electronics,Global Traders,885.14,1230.3446,55,46,8,51,Chicago,4.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID137,Asus ROG Strix,Laptop,Electronics,Global Traders,1296.01,1801.4539,39,24,4,29,Chicago,3.8,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID140,HP Spectre x360,Laptop,Electronics,Fast Retail,684.54,951.5106,91,40,10,51,Chicago,3.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID141,Lenovo ThinkPad X1,Laptop,Electronics,Urban Supply Co.,615.5,855.545,67,15,15,24,Chicago,4.9,"A powerful laptop suitable for gaming, business, and creative professionals."
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+PID153,Ergonomic Mesh Chair,Office Chair,Furniture,Elite Distributors,467.07,649.2273,147,10,9,89,Chicago,4.7,An ergonomic office chair with lumbar support for all-day comfort.
+PID155,Gaming Chair,Office Chair,Furniture,Fast Retail,584.63,812.6357,127,24,15,55,Chicago,3.4,An ergonomic office chair with lumbar support for all-day comfort.
+PID156,Adjustable Office Chair,Office Chair,Furniture,Elite Distributors,994.25,1382.0075,126,12,4,119,Chicago,2.8,An ergonomic office chair with lumbar support for all-day comfort.
+PID159,Leather Executive Chair,Office Chair,Furniture,Urban Supply Co.,547.4,760.886,122,11,10,49,Chicago,4.5,An ergonomic office chair with lumbar support for all-day comfort.
+PID160,Reclining Office Chair,Office Chair,Furniture,Global Traders,936.96,1302.3744,73,44,7,42,Chicago,3.2,An ergonomic office chair with lumbar support for all-day comfort.
+PID180,Samsung Galaxy S23,Smartphone,Electronics,Urban Supply Co.,733.5,1019.565,15,27,2,7,Chicago,4.8,A high-performance smartphone with advanced camera features and long battery life.
+PID181,OnePlus 11,Smartphone,Electronics,Elite Distributors,1492.87,2075.0893,30,48,14,24,Chicago,4.4,A high-performance smartphone with advanced camera features and long battery life.
+PID185,iPhone 14,Smartphone,Electronics,Global Traders,497.05,690.8995,86,31,7,73,Chicago,5,A high-performance smartphone with advanced camera features and long battery life.
+PID186,Xiaomi Mi 13,Smartphone,Electronics,Global Traders,1404.05,1951.6295,40,36,10,30,Chicago,3.8,A high-performance smartphone with advanced camera features and long battery life.
+PID187,Google Pixel 7,Smartphone,Electronics,Global Traders,905.35,1258.4365,48,11,7,41,Chicago,2.6,A high-performance smartphone with advanced camera features and long battery life.
+PID200,Apple Watch Series 8,Smartwatch,Electronics,Fast Retail,1781.66,2476.5074,60,36,12,54,Chicago,2.8,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID201,Amazfit GTR 4,Smartwatch,Electronics,Global Traders,946.39,1315.4821,63,35,8,60,Chicago,3.3,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID202,Garmin Fenix 7,Smartwatch,Electronics,Elite Distributors,658.68,915.5652,27,47,13,22,Chicago,4.1,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID203,Fitbit Sense 2,Smartwatch,Electronics,Elite Distributors,1711.01,2378.3039,47,41,13,41,Chicago,3.4,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID204,Samsung Galaxy Watch 5,Smartwatch,Electronics,Global Traders,1540.75,2141.6425,29,6,15,13,Chicago,4.6,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID223,Modular Sofa,Sofa Set,Furniture,Urban Supply Co.,447.56,622.1084,166,30,13,110,Chicago,3.1,A stylish and comfortable sofa set designed for modern living spaces.
+PID224,Recliner Sofa,Sofa Set,Furniture,Global Traders,368.53,512.2567,124,31,9,120,Chicago,3.3,A stylish and comfortable sofa set designed for modern living spaces.
+PID225,L-shaped Sofa,Sofa Set,Furniture,Urban Supply Co.,113.91,158.3349,50,48,9,23,Chicago,3.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID226,Sectional Sofa,Sofa Set,Furniture,Global Traders,1305.16,1814.1724,50,16,14,39,Chicago,4.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID228,Chesterfield Sofa,Sofa Set,Furniture,Fast Retail,254.71,354.0469,176,34,7,131,Chicago,3.5,A stylish and comfortable sofa set designed for modern living spaces.
+PID246,Lenovo Tab P11,Tablet,Electronics,Fast Retail,1387.88,1929.1532,16,50,13,16,Chicago,4.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID247,Microsoft Surface Pro 9,Tablet,Electronics,Elite Distributors,668.52,929.2428,100,23,12,81,Chicago,2.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID248,Amazon Fire HD 10,Tablet,Electronics,Global Traders,1262.12,1754.3468,43,43,14,28,Chicago,4.3,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID250,Samsung Galaxy Tab S8,Tablet,Electronics,Global Traders,358.36,498.1204,83,6,15,46,Chicago,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID254,iPad Pro 12.9,Tablet,Electronics,Global Traders,1210.29,1682.3031,37,30,3,29,Chicago,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID263,Modern TV Stand,TV Stand,Furniture,Fast Retail,1072.08,1490.1912,182,26,10,104,Chicago,3.9,A contemporary TV stand with open shelves and cable management features.
+PID265,Floating TV Stand,TV Stand,Furniture,Fast Retail,1399.39,1945.1521,79,16,5,40,Chicago,3.7,A contemporary TV stand with open shelves and cable management features.
+PID266,Wooden TV Stand,TV Stand,Furniture,Elite Distributors,1118.78,1555.1042,46,37,6,41,Chicago,2.7,A contemporary TV stand with open shelves and cable management features.
+PID268,Minimalist TV Stand,TV Stand,Furniture,Global Traders,1193.36,1658.7704,132,43,13,34,Chicago,3.8,A contemporary TV stand with open shelves and cable management features.
+PID270,Glass TV Stand,TV Stand,Furniture,Urban Supply Co.,611.54,850.0406,186,33,14,143,Chicago,4.6,A contemporary TV stand with open shelves and cable management features.
+PID285,Walk-in Wardrobe,Wardrobe,Furniture,Elite Distributors,87.61,121.7779,101,33,13,36,Chicago,3.3,A spacious wardrobe with sliding doors and customizable storage options.
+PID287,Compact Wardrobe,Wardrobe,Furniture,Global Traders,899.44,1250.2216,115,9,6,105,Chicago,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID288,Sliding Door Wardrobe,Wardrobe,Furniture,Urban Supply Co.,554.35,770.5465,193,44,4,116,Chicago,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID290,Mirrored Wardrobe,Wardrobe,Furniture,Elite Distributors,1124.34,1562.8326,104,42,10,36,Chicago,3.2,A spacious wardrobe with sliding doors and customizable storage options.
+PID293,2-Door Wardrobe,Wardrobe,Furniture,Global Traders,539.73,750.2247,139,41,5,112,Chicago,3.4,A spacious wardrobe with sliding doors and customizable storage options.
+PID001,Metal Frame Bed,Bed Frame,Furniture,Elite Distributors,863.68,1200.5152,27,38,13,21,Houston,2.9,A sturdy and stylish bed frame with ample storage options.
+PID002,King Size Bed,Bed Frame,Furniture,Fast Retail,1275.74,1773.2786,72,22,2,26,Houston,3.8,A sturdy and stylish bed frame with ample storage options.
+PID003,Queen Size Bed,Bed Frame,Furniture,Global Traders,323.75,450.0125,124,22,3,111,Houston,3.7,A sturdy and stylish bed frame with ample storage options.
+PID006,Storage Bed,Bed Frame,Furniture,Global Traders,1327.28,1844.9192,150,20,5,54,Houston,4.5,A sturdy and stylish bed frame with ample storage options.
+PID023,JBL Charge 5,Bluetooth Speaker,Electronics,Fast Retail,185.38,257.6782,37,26,12,32,Houston,2.5,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID024,Ultimate Ears Boom 3,Bluetooth Speaker,Electronics,Elite Distributors,1822.72,2533.5808,70,39,12,34,Houston,3.1,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID028,Sony SRS-XB43,Bluetooth Speaker,Electronics,Urban Supply Co.,554.35,770.5465,16,24,6,14,Houston,4.3,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID029,Bose SoundLink Revolve+,Bluetooth Speaker,Electronics,Urban Supply Co.,1592.78,2213.9642,13,19,8,7,Houston,4,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID040,Marshall Emberton,Bluetooth Speaker,Electronics,Urban Supply Co.,452.13,628.4607,85,47,9,68,Houston,3.7,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID045,Wooden Bookshelf,Bookshelf,Furniture,Elite Distributors,1333.56,1853.6484,117,29,4,48,Houston,2.9,A modern bookshelf with multiple compartments for books and decorative items.
+PID046,Metal Bookshelf,Bookshelf,Furniture,Elite Distributors,1097.59,1525.6501,176,44,7,52,Houston,4.4,A modern bookshelf with multiple compartments for books and decorative items.
+PID049,Modular Bookshelf,Bookshelf,Furniture,Global Traders,1293.08,1797.3812,51,46,4,42,Houston,4,A modern bookshelf with multiple compartments for books and decorative items.
+PID050,Glass Bookshelf,Bookshelf,Furniture,Elite Distributors,886.71,1232.5269,95,39,13,26,Houston,3.7,A modern bookshelf with multiple compartments for books and decorative items.
+PID058,Wall-mounted Bookshelf,Bookshelf,Furniture,Urban Supply Co.,402.93,560.0727,125,28,11,125,Houston,4.1,A modern bookshelf with multiple compartments for books and decorative items.
+PID068,Panasonic Lumix GH6,Camera,Electronics,Elite Distributors,808.66,1124.0374,52,19,10,18,Houston,4.7,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID069,Fujifilm X-T5,Camera,Electronics,Urban Supply Co.,986.94,1371.8466,18,50,5,17,Houston,3.9,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID071,Canon EOS R5,Camera,Electronics,Elite Distributors,1802.96,2506.1144,87,33,14,47,Houston,3,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID073,Sony Alpha A7 IV,Camera,Electronics,Global Traders,1585.3,2203.567,63,18,8,60,Houston,2.8,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID074,Nikon Z9,Camera,Electronics,Global Traders,406.17,564.5763,30,13,3,15,Houston,4,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID085,Round Dining Table,Dining Table,Furniture,Global Traders,1473.76,2048.5264,101,40,9,47,Houston,3.3,A durable and elegant dining table that complements any dining room decor.
+PID086,Marble Dining Table,Dining Table,Furniture,Global Traders,87.53,121.6667,179,10,13,51,Houston,3.9,A durable and elegant dining table that complements any dining room decor.
+PID088,Glass Dining Table,Dining Table,Furniture,Global Traders,484.55,673.5245,135,24,6,36,Houston,3.7,A durable and elegant dining table that complements any dining room decor.
+PID092,Expandable Dining Table,Dining Table,Furniture,Global Traders,375.43,521.8477,106,23,13,31,Houston,4.8,A durable and elegant dining table that complements any dining room decor.
+PID094,Wooden Dining Table,Dining Table,Furniture,Global Traders,706.23,981.6597,111,7,11,41,Houston,3.4,A durable and elegant dining table that complements any dining room decor.
+PID114,Apple AirPods Max,Headphones,Electronics,Global Traders,1991.36,2767.9904,23,10,15,13,Houston,2.9,High-quality noise-canceling headphones for an immersive audio experience.
+PID115,Sony WH-1000XM5,Headphones,Electronics,Fast Retail,1135.88,1578.8732,17,28,3,9,Houston,4.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID117,Sennheiser HD 660S,Headphones,Electronics,Global Traders,579.36,805.3104,37,36,10,28,Houston,3.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID118,JBL Tune 750,Headphones,Electronics,Elite Distributors,679.35,944.2965,90,33,6,47,Houston,3.4,High-quality noise-canceling headphones for an immersive audio experience.
+PID121,Bose QuietComfort 45,Headphones,Electronics,Global Traders,1450.37,2016.0143,19,19,4,15,Houston,5,High-quality noise-canceling headphones for an immersive audio experience.
+PID133,MacBook Air M2,Laptop,Electronics,Elite Distributors,992.43,1379.4777,13,33,7,13,Houston,3.3,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID134,Dell XPS 15,Laptop,Electronics,Global Traders,885.14,1230.3446,76,46,8,28,Houston,4.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID137,Asus ROG Strix,Laptop,Electronics,Global Traders,1296.01,1801.4539,86,24,4,50,Houston,3.8,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID140,HP Spectre x360,Laptop,Electronics,Fast Retail,684.54,951.5106,33,40,10,12,Houston,3.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID141,Lenovo ThinkPad X1,Laptop,Electronics,Urban Supply Co.,615.5,855.545,68,15,15,18,Houston,4.9,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID153,Ergonomic Mesh Chair,Office Chair,Furniture,Elite Distributors,467.07,649.2273,183,10,9,96,Houston,4.7,An ergonomic office chair with lumbar support for all-day comfort.
+PID155,Gaming Chair,Office Chair,Furniture,Fast Retail,584.63,812.6357,102,24,15,57,Houston,3.4,An ergonomic office chair with lumbar support for all-day comfort.
+PID156,Adjustable Office Chair,Office Chair,Furniture,Elite Distributors,994.25,1382.0075,103,12,4,68,Houston,2.8,An ergonomic office chair with lumbar support for all-day comfort.
+PID159,Leather Executive Chair,Office Chair,Furniture,Urban Supply Co.,547.4,760.886,28,11,10,21,Houston,4.5,An ergonomic office chair with lumbar support for all-day comfort.
+PID160,Reclining Office Chair,Office Chair,Furniture,Global Traders,936.96,1302.3744,116,44,7,80,Houston,3.2,An ergonomic office chair with lumbar support for all-day comfort.
+PID180,Samsung Galaxy S23,Smartphone,Electronics,Urban Supply Co.,733.5,1019.565,14,27,2,14,Houston,4.8,A high-performance smartphone with advanced camera features and long battery life.
+PID181,OnePlus 11,Smartphone,Electronics,Elite Distributors,1492.87,2075.0893,87,48,14,77,Houston,4.4,A high-performance smartphone with advanced camera features and long battery life.
+PID185,iPhone 14,Smartphone,Electronics,Global Traders,497.05,690.8995,85,31,7,75,Houston,5,A high-performance smartphone with advanced camera features and long battery life.
+PID186,Xiaomi Mi 13,Smartphone,Electronics,Global Traders,1404.05,1951.6295,59,36,10,42,Houston,3.8,A high-performance smartphone with advanced camera features and long battery life.
+PID187,Google Pixel 7,Smartphone,Electronics,Global Traders,905.35,1258.4365,25,11,7,12,Houston,2.6,A high-performance smartphone with advanced camera features and long battery life.
+PID200,Apple Watch Series 8,Smartwatch,Electronics,Fast Retail,1781.66,2476.5074,57,36,12,30,Houston,2.8,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID201,Amazfit GTR 4,Smartwatch,Electronics,Global Traders,946.39,1315.4821,75,35,8,25,Houston,3.3,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID202,Garmin Fenix 7,Smartwatch,Electronics,Elite Distributors,658.68,915.5652,53,47,13,37,Houston,4.1,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID203,Fitbit Sense 2,Smartwatch,Electronics,Elite Distributors,1711.01,2378.3039,57,41,13,56,Houston,3.4,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID204,Samsung Galaxy Watch 5,Smartwatch,Electronics,Global Traders,1540.75,2141.6425,57,6,15,41,Houston,4.6,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID223,Modular Sofa,Sofa Set,Furniture,Urban Supply Co.,447.56,622.1084,25,30,13,15,Houston,3.1,A stylish and comfortable sofa set designed for modern living spaces.
+PID224,Recliner Sofa,Sofa Set,Furniture,Global Traders,368.53,512.2567,183,31,9,158,Houston,3.3,A stylish and comfortable sofa set designed for modern living spaces.
+PID225,L-shaped Sofa,Sofa Set,Furniture,Urban Supply Co.,113.91,158.3349,47,48,9,31,Houston,3.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID226,Sectional Sofa,Sofa Set,Furniture,Global Traders,1305.16,1814.1724,187,16,14,126,Houston,4.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID228,Chesterfield Sofa,Sofa Set,Furniture,Fast Retail,254.71,354.0469,119,34,7,111,Houston,3.5,A stylish and comfortable sofa set designed for modern living spaces.
+PID246,Lenovo Tab P11,Tablet,Electronics,Fast Retail,1387.88,1929.1532,56,50,13,20,Houston,4.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID247,Microsoft Surface Pro 9,Tablet,Electronics,Elite Distributors,668.52,929.2428,26,23,12,24,Houston,2.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID248,Amazon Fire HD 10,Tablet,Electronics,Global Traders,1262.12,1754.3468,48,43,14,22,Houston,4.3,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID250,Samsung Galaxy Tab S8,Tablet,Electronics,Global Traders,358.36,498.1204,67,6,15,18,Houston,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID254,iPad Pro 12.9,Tablet,Electronics,Global Traders,1210.29,1682.3031,21,30,3,9,Houston,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+,,,,,,,,,,,,,
+PID263,Modern TV Stand,TV Stand,Furniture,Fast Retail,1072.08,1490.1912,141,26,10,116,Houston,3.9,A contemporary TV stand with open shelves and cable management features.
+PID265,Floating TV Stand,TV Stand,Furniture,Fast Retail,1399.39,1945.1521,197,16,5,74,Houston,3.7,A contemporary TV stand with open shelves and cable management features.
+PID266,Wooden TV Stand,TV Stand,Furniture,Elite Distributors,1118.78,1555.1042,32,37,6,20,Houston,2.7,A contemporary TV stand with open shelves and cable management features.
+PID268,Minimalist TV Stand,TV Stand,Furniture,Global Traders,1193.36,1658.7704,91,43,13,57,Houston,3.8,A contemporary TV stand with open shelves and cable management features.
+PID270,Glass TV Stand,TV Stand,Furniture,Urban Supply Co.,611.54,850.0406,46,33,14,26,Houston,4.6,A contemporary TV stand with open shelves and cable management features.
+PID285,Walk-in Wardrobe,Wardrobe,Furniture,Elite Distributors,87.61,121.7779,126,33,13,38,Houston,3.3,A spacious wardrobe with sliding doors and customizable storage options.
+PID287,Compact Wardrobe,Wardrobe,Furniture,Global Traders,899.44,1250.2216,50,9,6,40,Houston,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID288,Sliding Door Wardrobe,Wardrobe,Furniture,Urban Supply Co.,554.35,770.5465,152,44,4,144,Houston,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID290,Mirrored Wardrobe,Wardrobe,Furniture,Elite Distributors,1124.34,1562.8326,144,42,10,57,Houston,3.2,A spacious wardrobe with sliding doors and customizable storage options.
+PID293,2-Door Wardrobe,Wardrobe,Furniture,Global Traders,539.73,750.2247,45,41,5,43,Houston,3.4,A spacious wardrobe with sliding doors and customizable storage options.
+PID001,Metal Frame Bed,Bed Frame,Furniture,Elite Distributors,863.68,1200.5152,70,38,13,66,Los Angeles,2.9,A sturdy and stylish bed frame with ample storage options.
+PID002,King Size Bed,Bed Frame,Furniture,Fast Retail,1275.74,1773.2786,35,22,2,15,Los Angeles,3.8,A sturdy and stylish bed frame with ample storage options.
+PID003,Queen Size Bed,Bed Frame,Furniture,Global Traders,323.75,450.0125,152,22,3,137,Los Angeles,3.7,A sturdy and stylish bed frame with ample storage options.
+PID006,Storage Bed,Bed Frame,Furniture,Global Traders,1327.28,1844.9192,189,20,5,72,Los Angeles,4.5,A sturdy and stylish bed frame with ample storage options.
+PID023,JBL Charge 5,Bluetooth Speaker,Electronics,Fast Retail,185.38,257.6782,31,26,12,28,Los Angeles,2.5,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID024,Ultimate Ears Boom 3,Bluetooth Speaker,Electronics,Elite Distributors,1822.72,2533.5808,47,39,12,38,Los Angeles,3.1,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID028,Sony SRS-XB43,Bluetooth Speaker,Electronics,Urban Supply Co.,554.35,770.5465,27,24,6,26,Los Angeles,4.3,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID029,Bose SoundLink Revolve+,Bluetooth Speaker,Electronics,Urban Supply Co.,1592.78,2213.9642,66,19,8,30,Los Angeles,4,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID040,Marshall Emberton,Bluetooth Speaker,Electronics,Urban Supply Co.,452.13,628.4607,87,47,9,64,Los Angeles,3.7,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID045,Wooden Bookshelf,Bookshelf,Furniture,Elite Distributors,1333.56,1853.6484,185,29,4,105,Los Angeles,2.9,A modern bookshelf with multiple compartments for books and decorative items.
+PID046,Metal Bookshelf,Bookshelf,Furniture,Elite Distributors,1097.59,1525.6501,132,44,7,50,Los Angeles,4.4,A modern bookshelf with multiple compartments for books and decorative items.
+PID049,Modular Bookshelf,Bookshelf,Furniture,Global Traders,1293.08,1797.3812,77,46,4,38,Los Angeles,4,A modern bookshelf with multiple compartments for books and decorative items.
+PID050,Glass Bookshelf,Bookshelf,Furniture,Elite Distributors,886.71,1232.5269,37,39,13,15,Los Angeles,3.7,A modern bookshelf with multiple compartments for books and decorative items.
+PID058,Wall-mounted Bookshelf,Bookshelf,Furniture,Urban Supply Co.,402.93,560.0727,66,28,11,35,Los Angeles,4.1,A modern bookshelf with multiple compartments for books and decorative items.
+PID068,Panasonic Lumix GH6,Camera,Electronics,Elite Distributors,808.66,1124.0374,61,19,10,47,Los Angeles,4.7,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID069,Fujifilm X-T5,Camera,Electronics,Urban Supply Co.,986.94,1371.8466,86,50,5,27,Los Angeles,3.9,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID071,Canon EOS R5,Camera,Electronics,Elite Distributors,1802.96,2506.1144,34,33,14,33,Los Angeles,3,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID073,Sony Alpha A7 IV,Camera,Electronics,Global Traders,1585.3,2203.567,12,18,8,12,Los Angeles,2.8,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID074,Nikon Z9,Camera,Electronics,Global Traders,406.17,564.5763,35,13,3,9,Los Angeles,4,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID085,Round Dining Table,Dining Table,Furniture,Global Traders,1473.76,2048.5264,138,40,9,78,Los Angeles,3.3,A durable and elegant dining table that complements any dining room decor.
+PID086,Marble Dining Table,Dining Table,Furniture,Global Traders,87.53,121.6667,116,10,13,75,Los Angeles,3.9,A durable and elegant dining table that complements any dining room decor.
+PID088,Glass Dining Table,Dining Table,Furniture,Global Traders,484.55,673.5245,143,24,6,101,Los Angeles,3.7,A durable and elegant dining table that complements any dining room decor.
+PID092,Expandable Dining Table,Dining Table,Furniture,Global Traders,375.43,521.8477,103,23,13,47,Los Angeles,4.8,A durable and elegant dining table that complements any dining room decor.
+PID094,Wooden Dining Table,Dining Table,Furniture,Global Traders,706.23,981.6597,71,7,11,21,Los Angeles,3.4,A durable and elegant dining table that complements any dining room decor.
+PID114,Apple AirPods Max,Headphones,Electronics,Global Traders,1991.36,2767.9904,95,10,15,81,Los Angeles,2.9,High-quality noise-canceling headphones for an immersive audio experience.
+PID115,Sony WH-1000XM5,Headphones,Electronics,Fast Retail,1135.88,1578.8732,37,28,3,34,Los Angeles,4.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID117,Sennheiser HD 660S,Headphones,Electronics,Global Traders,579.36,805.3104,42,36,10,36,Los Angeles,3.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID118,JBL Tune 750,Headphones,Electronics,Elite Distributors,679.35,944.2965,35,33,6,27,Los Angeles,3.4,High-quality noise-canceling headphones for an immersive audio experience.
+PID121,Bose QuietComfort 45,Headphones,Electronics,Global Traders,1450.37,2016.0143,89,19,4,68,Los Angeles,5,High-quality noise-canceling headphones for an immersive audio experience.
+PID133,MacBook Air M2,Laptop,Electronics,Elite Distributors,992.43,1379.4777,81,33,7,52,Los Angeles,3.3,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID134,Dell XPS 15,Laptop,Electronics,Global Traders,885.14,1230.3446,92,46,8,29,Los Angeles,4.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID137,Asus ROG Strix,Laptop,Electronics,Global Traders,1296.01,1801.4539,77,24,4,34,Los Angeles,3.8,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID140,HP Spectre x360,Laptop,Electronics,Fast Retail,684.54,951.5106,13,40,10,7,Los Angeles,3.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID141,Lenovo ThinkPad X1,Laptop,Electronics,Urban Supply Co.,615.5,855.545,87,15,15,67,Los Angeles,4.9,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID153,Ergonomic Mesh Chair,Office Chair,Furniture,Elite Distributors,467.07,649.2273,103,10,9,53,Los Angeles,4.7,An ergonomic office chair with lumbar support for all-day comfort.
+PID155,Gaming Chair,Office Chair,Furniture,Fast Retail,584.63,812.6357,193,24,15,178,Los Angeles,3.4,An ergonomic office chair with lumbar support for all-day comfort.
+PID156,Adjustable Office Chair,Office Chair,Furniture,Elite Distributors,994.25,1382.0075,101,12,4,61,Los Angeles,2.8,An ergonomic office chair with lumbar support for all-day comfort.
+PID159,Leather Executive Chair,Office Chair,Furniture,Urban Supply Co.,547.4,760.886,169,11,10,154,Los Angeles,4.5,An ergonomic office chair with lumbar support for all-day comfort.
+PID160,Reclining Office Chair,Office Chair,Furniture,Global Traders,936.96,1302.3744,153,44,7,104,Los Angeles,3.2,An ergonomic office chair with lumbar support for all-day comfort.
+PID180,Samsung Galaxy S23,Smartphone,Electronics,Urban Supply Co.,733.5,1019.565,96,27,2,76,Los Angeles,4.8,A high-performance smartphone with advanced camera features and long battery life.
+PID181,OnePlus 11,Smartphone,Electronics,Elite Distributors,1492.87,2075.0893,46,48,14,14,Los Angeles,4.4,A high-performance smartphone with advanced camera features and long battery life.
+PID185,iPhone 14,Smartphone,Electronics,Global Traders,497.05,690.8995,72,31,7,55,Los Angeles,5,A high-performance smartphone with advanced camera features and long battery life.
+PID186,Xiaomi Mi 13,Smartphone,Electronics,Global Traders,1404.05,1951.6295,95,36,10,71,Los Angeles,3.8,A high-performance smartphone with advanced camera features and long battery life.
+PID187,Google Pixel 7,Smartphone,Electronics,Global Traders,905.35,1258.4365,90,11,7,48,Los Angeles,2.6,A high-performance smartphone with advanced camera features and long battery life.
+PID200,Apple Watch Series 8,Smartwatch,Electronics,Fast Retail,1781.66,2476.5074,36,36,12,12,Los Angeles,2.8,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID201,Amazfit GTR 4,Smartwatch,Electronics,Global Traders,946.39,1315.4821,84,35,8,36,Los Angeles,3.3,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID202,Garmin Fenix 7,Smartwatch,Electronics,Elite Distributors,658.68,915.5652,57,47,13,49,Los Angeles,4.1,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID203,Fitbit Sense 2,Smartwatch,Electronics,Elite Distributors,1711.01,2378.3039,51,41,13,33,Los Angeles,3.4,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID204,Samsung Galaxy Watch 5,Smartwatch,Electronics,Global Traders,1540.75,2141.6425,84,6,15,54,Los Angeles,4.6,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID223,Modular Sofa,Sofa Set,Furniture,Urban Supply Co.,447.56,622.1084,171,30,13,114,Los Angeles,3.1,A stylish and comfortable sofa set designed for modern living spaces.
+PID224,Recliner Sofa,Sofa Set,Furniture,Global Traders,368.53,512.2567,133,31,9,42,Los Angeles,3.3,A stylish and comfortable sofa set designed for modern living spaces.
+PID225,L-shaped Sofa,Sofa Set,Furniture,Urban Supply Co.,113.91,158.3349,77,48,9,32,Los Angeles,3.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID226,Sectional Sofa,Sofa Set,Furniture,Global Traders,1305.16,1814.1724,85,16,14,51,Los Angeles,4.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID228,Chesterfield Sofa,Sofa Set,Furniture,Fast Retail,254.71,354.0469,146,34,7,108,Los Angeles,3.5,A stylish and comfortable sofa set designed for modern living spaces.
+PID246,Lenovo Tab P11,Tablet,Electronics,Fast Retail,1387.88,1929.1532,24,50,13,6,Los Angeles,4.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID247,Microsoft Surface Pro 9,Tablet,Electronics,Elite Distributors,668.52,929.2428,74,23,12,51,Los Angeles,2.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID248,Amazon Fire HD 10,Tablet,Electronics,Global Traders,1262.12,1754.3468,50,43,14,44,Los Angeles,4.3,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID250,Samsung Galaxy Tab S8,Tablet,Electronics,Global Traders,358.36,498.1204,68,6,15,46,Los Angeles,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID254,iPad Pro 12.9,Tablet,Electronics,Global Traders,1210.29,1682.3031,78,30,3,48,Los Angeles,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID263,Modern TV Stand,TV Stand,Furniture,Fast Retail,1072.08,1490.1912,63,26,10,27,Los Angeles,3.9,A contemporary TV stand with open shelves and cable management features.
+PID265,Floating TV Stand,TV Stand,Furniture,Fast Retail,1399.39,1945.1521,29,16,5,8,Los Angeles,3.7,A contemporary TV stand with open shelves and cable management features.
+PID266,Wooden TV Stand,TV Stand,Furniture,Elite Distributors,1118.78,1555.1042,61,37,6,39,Los Angeles,2.7,A contemporary TV stand with open shelves and cable management features.
+PID268,Minimalist TV Stand,TV Stand,Furniture,Global Traders,1193.36,1658.7704,121,43,13,74,Los Angeles,3.8,A contemporary TV stand with open shelves and cable management features.
+PID270,Glass TV Stand,TV Stand,Furniture,Urban Supply Co.,611.54,850.0406,184,33,14,91,Los Angeles,4.6,A contemporary TV stand with open shelves and cable management features.
+PID285,Walk-in Wardrobe,Wardrobe,Furniture,Elite Distributors,87.61,121.7779,183,33,13,173,Los Angeles,3.3,A spacious wardrobe with sliding doors and customizable storage options.
+PID287,Compact Wardrobe,Wardrobe,Furniture,Global Traders,899.44,1250.2216,147,9,6,105,Los Angeles,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID288,Sliding Door Wardrobe,Wardrobe,Furniture,Urban Supply Co.,554.35,770.5465,172,44,4,57,Los Angeles,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID290,Mirrored Wardrobe,Wardrobe,Furniture,Elite Distributors,1124.34,1562.8326,85,42,10,29,Los Angeles,3.2,A spacious wardrobe with sliding doors and customizable storage options.
+PID293,2-Door Wardrobe,Wardrobe,Furniture,Global Traders,539.73,750.2247,159,41,5,116,Los Angeles,3.4,A spacious wardrobe with sliding doors and customizable storage options.
+PID001,Metal Frame Bed,Bed Frame,Furniture,Elite Distributors,863.68,1200.5152,190,38,13,66,Miami,2.9,A sturdy and stylish bed frame with ample storage options.
+PID002,King Size Bed,Bed Frame,Furniture,Fast Retail,1275.74,1773.2786,58,22,2,17,Miami,3.8,A sturdy and stylish bed frame with ample storage options.
+PID003,Queen Size Bed,Bed Frame,Furniture,Global Traders,323.75,450.0125,125,22,3,110,Miami,3.7,A sturdy and stylish bed frame with ample storage options.
+PID006,Storage Bed,Bed Frame,Furniture,Global Traders,1327.28,1844.9192,181,20,5,178,Miami,4.5,A sturdy and stylish bed frame with ample storage options.
+PID023,JBL Charge 5,Bluetooth Speaker,Electronics,Fast Retail,185.38,257.6782,89,26,12,40,Miami,2.5,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID024,Ultimate Ears Boom 3,Bluetooth Speaker,Electronics,Elite Distributors,1822.72,2533.5808,45,39,12,14,Miami,3.1,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID028,Sony SRS-XB43,Bluetooth Speaker,Electronics,Urban Supply Co.,554.35,770.5465,39,24,6,31,Miami,4.3,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID029,Bose SoundLink Revolve+,Bluetooth Speaker,Electronics,Urban Supply Co.,1592.78,2213.9642,96,19,8,75,Miami,4,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID040,Marshall Emberton,Bluetooth Speaker,Electronics,Urban Supply Co.,452.13,628.4607,68,47,9,54,Miami,3.7,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID045,Wooden Bookshelf,Bookshelf,Furniture,Elite Distributors,1333.56,1853.6484,179,29,4,82,Miami,2.9,A modern bookshelf with multiple compartments for books and decorative items.
+PID046,Metal Bookshelf,Bookshelf,Furniture,Elite Distributors,1097.59,1525.6501,165,44,7,82,Miami,4.4,A modern bookshelf with multiple compartments for books and decorative items.
+PID049,Modular Bookshelf,Bookshelf,Furniture,Global Traders,1293.08,1797.3812,144,46,4,100,Miami,4,A modern bookshelf with multiple compartments for books and decorative items.
+PID050,Glass Bookshelf,Bookshelf,Furniture,Elite Distributors,886.71,1232.5269,178,39,13,152,Miami,3.7,A modern bookshelf with multiple compartments for books and decorative items.
+PID058,Wall-mounted Bookshelf,Bookshelf,Furniture,Urban Supply Co.,402.93,560.0727,89,28,11,38,Miami,4.1,A modern bookshelf with multiple compartments for books and decorative items.
+PID068,Panasonic Lumix GH6,Camera,Electronics,Elite Distributors,808.66,1124.0374,15,19,10,15,Miami,4.7,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID069,Fujifilm X-T5,Camera,Electronics,Urban Supply Co.,986.94,1371.8466,22,50,5,11,Miami,3.9,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID071,Canon EOS R5,Camera,Electronics,Elite Distributors,1802.96,2506.1144,63,33,14,17,Miami,3,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID073,Sony Alpha A7 IV,Camera,Electronics,Global Traders,1585.3,2203.567,60,18,8,29,Miami,2.8,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID074,Nikon Z9,Camera,Electronics,Global Traders,406.17,564.5763,72,13,3,63,Miami,4,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID085,Round Dining Table,Dining Table,Furniture,Global Traders,1473.76,2048.5264,143,40,9,107,Miami,3.3,A durable and elegant dining table that complements any dining room decor.
+PID086,Marble Dining Table,Dining Table,Furniture,Global Traders,87.53,121.6667,121,10,13,114,Miami,3.9,A durable and elegant dining table that complements any dining room decor.
+PID088,Glass Dining Table,Dining Table,Furniture,Global Traders,484.55,673.5245,58,24,6,53,Miami,3.7,A durable and elegant dining table that complements any dining room decor.
+PID092,Expandable Dining Table,Dining Table,Furniture,Global Traders,375.43,521.8477,25,23,13,7,Miami,4.8,A durable and elegant dining table that complements any dining room decor.
+PID094,Wooden Dining Table,Dining Table,Furniture,Global Traders,706.23,981.6597,103,7,11,80,Miami,3.4,A durable and elegant dining table that complements any dining room decor.
+PID114,Apple AirPods Max,Headphones,Electronics,Global Traders,1991.36,2767.9904,16,10,15,6,Miami,2.9,High-quality noise-canceling headphones for an immersive audio experience.
+PID115,Sony WH-1000XM5,Headphones,Electronics,Fast Retail,1135.88,1578.8732,34,28,3,13,Miami,4.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID117,Sennheiser HD 660S,Headphones,Electronics,Global Traders,579.36,805.3104,59,36,10,26,Miami,3.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID118,JBL Tune 750,Headphones,Electronics,Elite Distributors,679.35,944.2965,65,33,6,54,Miami,3.4,High-quality noise-canceling headphones for an immersive audio experience.
+PID121,Bose QuietComfort 45,Headphones,Electronics,Global Traders,1450.37,2016.0143,87,19,4,44,Miami,5,High-quality noise-canceling headphones for an immersive audio experience.
+PID133,MacBook Air M2,Laptop,Electronics,Elite Distributors,992.43,1379.4777,94,33,7,75,Miami,3.3,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID134,Dell XPS 15,Laptop,Electronics,Global Traders,885.14,1230.3446,96,46,8,26,Miami,4.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID137,Asus ROG Strix,Laptop,Electronics,Global Traders,1296.01,1801.4539,95,24,4,23,Miami,3.8,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID140,HP Spectre x360,Laptop,Electronics,Fast Retail,684.54,951.5106,86,40,10,51,Miami,3.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID141,Lenovo ThinkPad X1,Laptop,Electronics,Urban Supply Co.,615.5,855.545,64,15,15,45,Miami,4.9,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID153,Ergonomic Mesh Chair,Office Chair,Furniture,Elite Distributors,467.07,649.2273,77,10,9,24,Miami,4.7,An ergonomic office chair with lumbar support for all-day comfort.
+PID155,Gaming Chair,Office Chair,Furniture,Fast Retail,584.63,812.6357,136,24,15,74,Miami,3.4,An ergonomic office chair with lumbar support for all-day comfort.
+PID156,Adjustable Office Chair,Office Chair,Furniture,Elite Distributors,994.25,1382.0075,161,12,4,154,Miami,2.8,An ergonomic office chair with lumbar support for all-day comfort.
+PID159,Leather Executive Chair,Office Chair,Furniture,Urban Supply Co.,547.4,760.886,175,11,10,128,Miami,4.5,An ergonomic office chair with lumbar support for all-day comfort.
+PID160,Reclining Office Chair,Office Chair,Furniture,Global Traders,936.96,1302.3744,171,44,7,78,Miami,3.2,An ergonomic office chair with lumbar support for all-day comfort.
+PID180,Samsung Galaxy S23,Smartphone,Electronics,Urban Supply Co.,733.5,1019.565,13,27,2,8,Miami,4.8,A high-performance smartphone with advanced camera features and long battery life.
+PID181,OnePlus 11,Smartphone,Electronics,Elite Distributors,1492.87,2075.0893,20,48,14,17,Miami,4.4,A high-performance smartphone with advanced camera features and long battery life.
+PID185,iPhone 14,Smartphone,Electronics,Global Traders,497.05,690.8995,42,31,7,23,Miami,5,A high-performance smartphone with advanced camera features and long battery life.
+PID186,Xiaomi Mi 13,Smartphone,Electronics,Global Traders,1404.05,1951.6295,98,36,10,28,Miami,3.8,A high-performance smartphone with advanced camera features and long battery life.
+PID187,Google Pixel 7,Smartphone,Electronics,Global Traders,905.35,1258.4365,82,11,7,47,Miami,2.6,A high-performance smartphone with advanced camera features and long battery life.
+PID200,Apple Watch Series 8,Smartwatch,Electronics,Fast Retail,1781.66,2476.5074,23,36,12,21,Miami,2.8,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID201,Amazfit GTR 4,Smartwatch,Electronics,Global Traders,946.39,1315.4821,29,35,8,14,Miami,3.3,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID202,Garmin Fenix 7,Smartwatch,Electronics,Elite Distributors,658.68,915.5652,14,47,13,11,Miami,4.1,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID203,Fitbit Sense 2,Smartwatch,Electronics,Elite Distributors,1711.01,2378.3039,93,41,13,50,Miami,3.4,A sleek and feature-rich smartwatch with health tracking and notifications.
+,,,,,,,,,,,,,
+PID204,Samsung Galaxy Watch 5,Smartwatch,Electronics,Global Traders,1540.75,2141.6425,55,6,15,29,Miami,4.6,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID223,Modular Sofa,Sofa Set,Furniture,Urban Supply Co.,447.56,622.1084,57,30,13,39,Miami,3.1,A stylish and comfortable sofa set designed for modern living spaces.
+PID224,Recliner Sofa,Sofa Set,Furniture,Global Traders,368.53,512.2567,34,31,9,30,Miami,3.3,A stylish and comfortable sofa set designed for modern living spaces.
+PID225,L-shaped Sofa,Sofa Set,Furniture,Urban Supply Co.,113.91,158.3349,44,48,9,34,Miami,3.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID226,Sectional Sofa,Sofa Set,Furniture,Global Traders,1305.16,1814.1724,139,16,14,64,Miami,4.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID228,Chesterfield Sofa,Sofa Set,Furniture,Fast Retail,254.71,354.0469,25,34,7,14,Miami,3.5,A stylish and comfortable sofa set designed for modern living spaces.
+PID246,Lenovo Tab P11,Tablet,Electronics,Fast Retail,1387.88,1929.1532,44,50,13,29,Miami,4.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID247,Microsoft Surface Pro 9,Tablet,Electronics,Elite Distributors,668.52,929.2428,21,23,12,21,Miami,2.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID248,Amazon Fire HD 10,Tablet,Electronics,Global Traders,1262.12,1754.3468,35,43,14,33,Miami,4.3,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID250,Samsung Galaxy Tab S8,Tablet,Electronics,Global Traders,358.36,498.1204,89,6,15,39,Miami,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID254,iPad Pro 12.9,Tablet,Electronics,Global Traders,1210.29,1682.3031,74,30,3,50,Miami,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID263,Modern TV Stand,TV Stand,Furniture,Fast Retail,1072.08,1490.1912,191,26,10,182,Miami,3.9,A contemporary TV stand with open shelves and cable management features.
+PID265,Floating TV Stand,TV Stand,Furniture,Fast Retail,1399.39,1945.1521,38,16,5,17,Miami,3.7,A contemporary TV stand with open shelves and cable management features.
+PID266,Wooden TV Stand,TV Stand,Furniture,Elite Distributors,1118.78,1555.1042,189,37,6,54,Miami,2.7,A contemporary TV stand with open shelves and cable management features.
+PID268,Minimalist TV Stand,TV Stand,Furniture,Global Traders,1193.36,1658.7704,48,43,13,21,Miami,3.8,A contemporary TV stand with open shelves and cable management features.
+PID270,Glass TV Stand,TV Stand,Furniture,Urban Supply Co.,611.54,850.0406,174,33,14,155,Miami,4.6,A contemporary TV stand with open shelves and cable management features.
+PID285,Walk-in Wardrobe,Wardrobe,Furniture,Elite Distributors,87.61,121.7779,102,33,13,76,Miami,3.3,A spacious wardrobe with sliding doors and customizable storage options.
+PID287,Compact Wardrobe,Wardrobe,Furniture,Global Traders,899.44,1250.2216,84,9,6,50,Miami,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID288,Sliding Door Wardrobe,Wardrobe,Furniture,Urban Supply Co.,554.35,770.5465,143,44,4,49,Miami,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID290,Mirrored Wardrobe,Wardrobe,Furniture,Elite Distributors,1124.34,1562.8326,130,42,10,89,Miami,3.2,A spacious wardrobe with sliding doors and customizable storage options.
+PID293,2-Door Wardrobe,Wardrobe,Furniture,Global Traders,539.73,750.2247,81,41,5,81,Miami,3.4,A spacious wardrobe with sliding doors and customizable storage options.
+PID001,Metal Frame Bed,Bed Frame,Furniture,Elite Distributors,863.68,1200.5152,112,38,13,67,New York,2.9,A sturdy and stylish bed frame with ample storage options.
+PID002,King Size Bed,Bed Frame,Furniture,Fast Retail,1275.74,1773.2786,181,22,2,119,New York,3.8,A sturdy and stylish bed frame with ample storage options.
+PID003,Queen Size Bed,Bed Frame,Furniture,Global Traders,323.75,450.0125,109,22,3,57,New York,3.7,A sturdy and stylish bed frame with ample storage options.
+PID006,Storage Bed,Bed Frame,Furniture,Global Traders,1327.28,1844.9192,44,20,5,36,New York,4.5,A sturdy and stylish bed frame with ample storage options.
+PID023,JBL Charge 5,Bluetooth Speaker,Electronics,Fast Retail,185.38,257.6782,90,26,12,47,New York,2.5,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID024,Ultimate Ears Boom 3,Bluetooth Speaker,Electronics,Elite Distributors,1822.72,2533.5808,57,39,12,49,New York,3.1,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID028,Sony SRS-XB43,Bluetooth Speaker,Electronics,Urban Supply Co.,554.35,770.5465,85,24,6,64,New York,4.3,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID029,Bose SoundLink Revolve+,Bluetooth Speaker,Electronics,Urban Supply Co.,1592.78,2213.9642,14,19,8,14,New York,4,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID040,Marshall Emberton,Bluetooth Speaker,Electronics,Urban Supply Co.,452.13,628.4607,22,47,9,15,New York,3.7,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID045,Wooden Bookshelf,Bookshelf,Furniture,Elite Distributors,1333.56,1853.6484,51,29,4,45,New York,2.9,A modern bookshelf with multiple compartments for books and decorative items.
+PID046,Metal Bookshelf,Bookshelf,Furniture,Elite Distributors,1097.59,1525.6501,118,44,7,60,New York,4.4,A modern bookshelf with multiple compartments for books and decorative items.
+PID049,Modular Bookshelf,Bookshelf,Furniture,Global Traders,1293.08,1797.3812,148,46,4,96,New York,4,A modern bookshelf with multiple compartments for books and decorative items.
+PID050,Glass Bookshelf,Bookshelf,Furniture,Elite Distributors,886.71,1232.5269,88,39,13,30,New York,3.7,A modern bookshelf with multiple compartments for books and decorative items.
+PID058,Wall-mounted Bookshelf,Bookshelf,Furniture,Urban Supply Co.,402.93,560.0727,116,28,11,61,New York,4.1,A modern bookshelf with multiple compartments for books and decorative items.
+PID068,Panasonic Lumix GH6,Camera,Electronics,Elite Distributors,808.66,1124.0374,24,19,10,11,New York,4.7,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID069,Fujifilm X-T5,Camera,Electronics,Urban Supply Co.,986.94,1371.8466,62,50,5,58,New York,3.9,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID071,Canon EOS R5,Camera,Electronics,Elite Distributors,1802.96,2506.1144,46,33,14,31,New York,3,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID073,Sony Alpha A7 IV,Camera,Electronics,Global Traders,1585.3,2203.567,50,18,8,29,New York,2.8,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID074,Nikon Z9,Camera,Electronics,Global Traders,406.17,564.5763,32,13,3,24,New York,4,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID085,Round Dining Table,Dining Table,Furniture,Global Traders,1473.76,2048.5264,50,40,9,22,New York,3.3,A durable and elegant dining table that complements any dining room decor.
+PID086,Marble Dining Table,Dining Table,Furniture,Global Traders,87.53,121.6667,113,10,13,60,New York,3.9,A durable and elegant dining table that complements any dining room decor.
+PID088,Glass Dining Table,Dining Table,Furniture,Global Traders,484.55,673.5245,84,24,6,41,New York,3.7,A durable and elegant dining table that complements any dining room decor.
+PID092,Expandable Dining Table,Dining Table,Furniture,Global Traders,375.43,521.8477,34,23,13,31,New York,4.8,A durable and elegant dining table that complements any dining room decor.
+PID094,Wooden Dining Table,Dining Table,Furniture,Global Traders,706.23,981.6597,154,7,11,71,New York,3.4,A durable and elegant dining table that complements any dining room decor.
+PID114,Apple AirPods Max,Headphones,Electronics,Global Traders,1991.36,2767.9904,76,10,15,41,New York,2.9,High-quality noise-canceling headphones for an immersive audio experience.
+PID115,Sony WH-1000XM5,Headphones,Electronics,Fast Retail,1135.88,1578.8732,38,28,3,10,New York,4.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID117,Sennheiser HD 660S,Headphones,Electronics,Global Traders,579.36,805.3104,93,36,10,44,New York,3.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID118,JBL Tune 750,Headphones,Electronics,Elite Distributors,679.35,944.2965,40,33,6,26,New York,3.4,High-quality noise-canceling headphones for an immersive audio experience.
+PID121,Bose QuietComfort 45,Headphones,Electronics,Global Traders,1450.37,2016.0143,75,19,4,31,New York,5,High-quality noise-canceling headphones for an immersive audio experience.
+PID133,MacBook Air M2,Laptop,Electronics,Elite Distributors,992.43,1379.4777,59,33,7,53,New York,3.3,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID134,Dell XPS 15,Laptop,Electronics,Global Traders,885.14,1230.3446,97,46,8,45,New York,4.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID137,Asus ROG Strix,Laptop,Electronics,Global Traders,1296.01,1801.4539,49,24,4,27,New York,3.8,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID140,HP Spectre x360,Laptop,Electronics,Fast Retail,684.54,951.5106,83,40,10,60,New York,3.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID141,Lenovo ThinkPad X1,Laptop,Electronics,Urban Supply Co.,615.5,855.545,36,15,15,10,New York,4.9,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID153,Ergonomic Mesh Chair,Office Chair,Furniture,Elite Distributors,467.07,649.2273,115,10,9,63,New York,4.7,An ergonomic office chair with lumbar support for all-day comfort.
+PID155,Gaming Chair,Office Chair,Furniture,Fast Retail,584.63,812.6357,62,24,15,53,New York,3.4,An ergonomic office chair with lumbar support for all-day comfort.
+PID156,Adjustable Office Chair,Office Chair,Furniture,Elite Distributors,994.25,1382.0075,82,12,4,34,New York,2.8,An ergonomic office chair with lumbar support for all-day comfort.
+PID159,Leather Executive Chair,Office Chair,Furniture,Urban Supply Co.,547.4,760.886,55,11,10,18,New York,4.5,An ergonomic office chair with lumbar support for all-day comfort.
+PID160,Reclining Office Chair,Office Chair,Furniture,Global Traders,936.96,1302.3744,36,44,7,28,New York,3.2,An ergonomic office chair with lumbar support for all-day comfort.
+PID180,Samsung Galaxy S23,Smartphone,Electronics,Urban Supply Co.,733.5,1019.565,30,27,2,26,New York,4.8,A high-performance smartphone with advanced camera features and long battery life.
+PID181,OnePlus 11,Smartphone,Electronics,Elite Distributors,1492.87,2075.0893,48,48,14,47,New York,4.4,A high-performance smartphone with advanced camera features and long battery life.
+PID185,iPhone 14,Smartphone,Electronics,Global Traders,497.05,690.8995,65,31,7,33,New York,5,A high-performance smartphone with advanced camera features and long battery life.
+PID186,Xiaomi Mi 13,Smartphone,Electronics,Global Traders,1404.05,1951.6295,33,36,10,15,New York,3.8,A high-performance smartphone with advanced camera features and long battery life.
+PID187,Google Pixel 7,Smartphone,Electronics,Global Traders,905.35,1258.4365,39,11,7,31,New York,2.6,A high-performance smartphone with advanced camera features and long battery life.
+PID200,Apple Watch Series 8,Smartwatch,Electronics,Fast Retail,1781.66,2476.5074,62,36,12,21,New York,2.8,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID201,Amazfit GTR 4,Smartwatch,Electronics,Global Traders,946.39,1315.4821,23,35,8,21,New York,3.3,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID202,Garmin Fenix 7,Smartwatch,Electronics,Elite Distributors,658.68,915.5652,77,47,13,63,New York,4.1,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID203,Fitbit Sense 2,Smartwatch,Electronics,Elite Distributors,1711.01,2378.3039,68,41,13,18,New York,3.4,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID204,Samsung Galaxy Watch 5,Smartwatch,Electronics,Global Traders,1540.75,2141.6425,83,6,15,73,New York,4.6,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID223,Modular Sofa,Sofa Set,Furniture,Urban Supply Co.,447.56,622.1084,161,30,13,62,New York,3.1,A stylish and comfortable sofa set designed for modern living spaces.
+PID224,Recliner Sofa,Sofa Set,Furniture,Global Traders,368.53,512.2567,181,31,9,68,New York,3.3,A stylish and comfortable sofa set designed for modern living spaces.
+PID225,L-shaped Sofa,Sofa Set,Furniture,Urban Supply Co.,113.91,158.3349,32,48,9,23,New York,3.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID226,Sectional Sofa,Sofa Set,Furniture,Global Traders,1305.16,1814.1724,53,16,14,30,New York,4.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID228,Chesterfield Sofa,Sofa Set,Furniture,Fast Retail,254.71,354.0469,54,34,7,26,New York,3.5,A stylish and comfortable sofa set designed for modern living spaces.
+PID246,Lenovo Tab P11,Tablet,Electronics,Fast Retail,1387.88,1929.1532,33,50,13,30,New York,4.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID247,Microsoft Surface Pro 9,Tablet,Electronics,Elite Distributors,668.52,929.2428,85,23,12,36,New York,2.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID248,Amazon Fire HD 10,Tablet,Electronics,Global Traders,1262.12,1754.3468,99,43,14,38,New York,4.3,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID250,Samsung Galaxy Tab S8,Tablet,Electronics,Global Traders,358.36,498.1204,10,6,15,5,New York,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID254,iPad Pro 12.9,Tablet,Electronics,Global Traders,1210.29,1682.3031,86,30,3,49,New York,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID263,Modern TV Stand,TV Stand,Furniture,Fast Retail,1072.08,1490.1912,175,26,10,98,New York,3.9,A contemporary TV stand with open shelves and cable management features.
+PID265,Floating TV Stand,TV Stand,Furniture,Fast Retail,1399.39,1945.1521,122,16,5,37,New York,3.7,A contemporary TV stand with open shelves and cable management features.
+PID266,Wooden TV Stand,TV Stand,Furniture,Elite Distributors,1118.78,1555.1042,197,37,6,118,New York,2.7,A contemporary TV stand with open shelves and cable management features.
+PID268,Minimalist TV Stand,TV Stand,Furniture,Global Traders,1193.36,1658.7704,79,43,13,54,New York,3.8,A contemporary TV stand with open shelves and cable management features.
+PID270,Glass TV Stand,TV Stand,Furniture,Urban Supply Co.,611.54,850.0406,170,33,14,158,New York,4.6,A contemporary TV stand with open shelves and cable management features.
+PID285,Walk-in Wardrobe,Wardrobe,Furniture,Elite Distributors,87.61,121.7779,61,33,13,61,New York,3.3,A spacious wardrobe with sliding doors and customizable storage options.
+PID287,Compact Wardrobe,Wardrobe,Furniture,Global Traders,899.44,1250.2216,181,9,6,63,New York,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID288,Sliding Door Wardrobe,Wardrobe,Furniture,Urban Supply Co.,554.35,770.5465,92,44,4,32,New York,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID290,Mirrored Wardrobe,Wardrobe,Furniture,Elite Distributors,1124.34,1562.8326,154,42,10,97,New York,3.2,A spacious wardrobe with sliding doors and customizable storage options.
+PID293,2-Door Wardrobe,Wardrobe,Furniture,Global Traders,539.73,750.2247,125,41,5,102,New York,3.4,A spacious wardrobe with sliding doors and customizable storage options.
+PID001,Metal Frame Bed,Bed Frame,Furniture,Elite Distributors,863.68,1200.5152,80,38,13,58,San Francisco,2.9,A sturdy and stylish bed frame with ample storage options.
+PID002,King Size Bed,Bed Frame,Furniture,Fast Retail,1275.74,1773.2786,176,22,2,67,San Francisco,3.8,A sturdy and stylish bed frame with ample storage options.
+PID003,Queen Size Bed,Bed Frame,Furniture,Global Traders,323.75,450.0125,118,22,3,64,San Francisco,3.7,A sturdy and stylish bed frame with ample storage options.
+PID006,Storage Bed,Bed Frame,Furniture,Global Traders,1327.28,1844.9192,51,20,5,32,San Francisco,4.5,A sturdy and stylish bed frame with ample storage options.
+PID023,JBL Charge 5,Bluetooth Speaker,Electronics,Fast Retail,185.38,257.6782,86,26,12,58,San Francisco,2.5,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID024,Ultimate Ears Boom 3,Bluetooth Speaker,Electronics,Elite Distributors,1822.72,2533.5808,92,39,12,34,San Francisco,3.1,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID028,Sony SRS-XB43,Bluetooth Speaker,Electronics,Urban Supply Co.,554.35,770.5465,20,24,6,13,San Francisco,4.3,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID029,Bose SoundLink Revolve+,Bluetooth Speaker,Electronics,Urban Supply Co.,1592.78,2213.9642,83,19,8,79,San Francisco,4,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID040,Marshall Emberton,Bluetooth Speaker,Electronics,Urban Supply Co.,452.13,628.4607,94,47,9,48,San Francisco,3.7,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID045,Wooden Bookshelf,Bookshelf,Furniture,Elite Distributors,1333.56,1853.6484,103,29,4,25,San Francisco,2.9,A modern bookshelf with multiple compartments for books and decorative items.
+PID046,Metal Bookshelf,Bookshelf,Furniture,Elite Distributors,1097.59,1525.6501,151,44,7,103,San Francisco,4.4,A modern bookshelf with multiple compartments for books and decorative items.
+PID049,Modular Bookshelf,Bookshelf,Furniture,Global Traders,1293.08,1797.3812,134,46,4,106,San Francisco,4,A modern bookshelf with multiple compartments for books and decorative items.
+PID050,Glass Bookshelf,Bookshelf,Furniture,Elite Distributors,886.71,1232.5269,67,39,13,48,San Francisco,3.7,A modern bookshelf with multiple compartments for books and decorative items.
+PID058,Wall-mounted Bookshelf,Bookshelf,Furniture,Urban Supply Co.,402.93,560.0727,111,28,11,75,San Francisco,4.1,A modern bookshelf with multiple compartments for books and decorative items.
+PID068,Panasonic Lumix GH6,Camera,Electronics,Elite Distributors,808.66,1124.0374,98,19,10,53,San Francisco,4.7,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID069,Fujifilm X-T5,Camera,Electronics,Urban Supply Co.,986.94,1371.8466,88,50,5,45,San Francisco,3.9,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID071,Canon EOS R5,Camera,Electronics,Elite Distributors,1802.96,2506.1144,100,33,14,85,San Francisco,3,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID073,Sony Alpha A7 IV,Camera,Electronics,Global Traders,1585.3,2203.567,90,18,8,89,San Francisco,2.8,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID074,Nikon Z9,Camera,Electronics,Global Traders,406.17,564.5763,96,13,3,79,San Francisco,4,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID085,Round Dining Table,Dining Table,Furniture,Global Traders,1473.76,2048.5264,182,40,9,129,San Francisco,3.3,A durable and elegant dining table that complements any dining room decor.
+PID086,Marble Dining Table,Dining Table,Furniture,Global Traders,87.53,121.6667,43,10,13,10,San Francisco,3.9,A durable and elegant dining table that complements any dining room decor.
+PID088,Glass Dining Table,Dining Table,Furniture,Global Traders,484.55,673.5245,136,24,6,120,San Francisco,3.7,A durable and elegant dining table that complements any dining room decor.
+PID092,Expandable Dining Table,Dining Table,Furniture,Global Traders,375.43,521.8477,147,23,13,79,San Francisco,4.8,A durable and elegant dining table that complements any dining room decor.
+PID094,Wooden Dining Table,Dining Table,Furniture,Global Traders,706.23,981.6597,80,7,11,25,San Francisco,3.4,A durable and elegant dining table that complements any dining room decor.
+PID114,Apple AirPods Max,Headphones,Electronics,Global Traders,1991.36,2767.9904,22,10,15,20,San Francisco,2.9,High-quality noise-canceling headphones for an immersive audio experience.
+PID115,Sony WH-1000XM5,Headphones,Electronics,Fast Retail,1135.88,1578.8732,52,28,3,14,San Francisco,4.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID117,Sennheiser HD 660S,Headphones,Electronics,Global Traders,579.36,805.3104,86,36,10,79,San Francisco,3.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID118,JBL Tune 750,Headphones,Electronics,Elite Distributors,679.35,944.2965,35,33,6,14,San Francisco,3.4,High-quality noise-canceling headphones for an immersive audio experience.
+PID121,Bose QuietComfort 45,Headphones,Electronics,Global Traders,1450.37,2016.0143,65,19,4,42,San Francisco,5,High-quality noise-canceling headphones for an immersive audio experience.
+PID133,MacBook Air M2,Laptop,Electronics,Elite Distributors,992.43,1379.4777,21,33,7,13,San Francisco,3.3,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID134,Dell XPS 15,Laptop,Electronics,Global Traders,885.14,1230.3446,82,46,8,64,San Francisco,4.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID137,Asus ROG Strix,Laptop,Electronics,Global Traders,1296.01,1801.4539,77,24,4,63,San Francisco,3.8,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID140,HP Spectre x360,Laptop,Electronics,Fast Retail,684.54,951.5106,53,40,10,38,San Francisco,3.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID141,Lenovo ThinkPad X1,Laptop,Electronics,Urban Supply Co.,615.5,855.545,85,15,15,73,San Francisco,4.9,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID153,Ergonomic Mesh Chair,Office Chair,Furniture,Elite Distributors,467.07,649.2273,29,10,9,20,San Francisco,4.7,An ergonomic office chair with lumbar support for all-day comfort.
+PID155,Gaming Chair,Office Chair,Furniture,Fast Retail,584.63,812.6357,108,24,15,41,San Francisco,3.4,An ergonomic office chair with lumbar support for all-day comfort.
+PID156,Adjustable Office Chair,Office Chair,Furniture,Elite Distributors,994.25,1382.0075,190,12,4,96,San Francisco,2.8,An ergonomic office chair with lumbar support for all-day comfort.
+PID159,Leather Executive Chair,Office Chair,Furniture,Urban Supply Co.,547.4,760.886,58,11,10,46,San Francisco,4.5,An ergonomic office chair with lumbar support for all-day comfort.
+PID160,Reclining Office Chair,Office Chair,Furniture,Global Traders,936.96,1302.3744,139,44,7,50,San Francisco,3.2,An ergonomic office chair with lumbar support for all-day comfort.
+PID180,Samsung Galaxy S23,Smartphone,Electronics,Urban Supply Co.,733.5,1019.565,42,27,2,29,San Francisco,4.8,A high-performance smartphone with advanced camera features and long battery life.
+PID181,OnePlus 11,Smartphone,Electronics,Elite Distributors,1492.87,2075.0893,64,48,14,51,San Francisco,4.4,A high-performance smartphone with advanced camera features and long battery life.
+PID185,iPhone 14,Smartphone,Electronics,Global Traders,497.05,690.8995,30,31,7,19,San Francisco,5,A high-performance smartphone with advanced camera features and long battery life.
+PID186,Xiaomi Mi 13,Smartphone,Electronics,Global Traders,1404.05,1951.6295,89,36,10,60,San Francisco,3.8,A high-performance smartphone with advanced camera features and long battery life.
+PID187,Google Pixel 7,Smartphone,Electronics,Global Traders,905.35,1258.4365,41,11,7,38,San Francisco,2.6,A high-performance smartphone with advanced camera features and long battery life.
+PID200,Apple Watch Series 8,Smartwatch,Electronics,Fast Retail,1781.66,2476.5074,100,36,12,29,San Francisco,2.8,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID201,Amazfit GTR 4,Smartwatch,Electronics,Global Traders,946.39,1315.4821,28,35,8,27,San Francisco,3.3,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID202,Garmin Fenix 7,Smartwatch,Electronics,Elite Distributors,658.68,915.5652,39,47,13,17,San Francisco,4.1,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID203,Fitbit Sense 2,Smartwatch,Electronics,Elite Distributors,1711.01,2378.3039,41,41,13,37,San Francisco,3.4,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID204,Samsung Galaxy Watch 5,Smartwatch,Electronics,Global Traders,1540.75,2141.6425,20,6,15,10,San Francisco,4.6,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID223,Modular Sofa,Sofa Set,Furniture,Urban Supply Co.,447.56,622.1084,113,30,13,70,San Francisco,3.1,A stylish and comfortable sofa set designed for modern living spaces.
+PID224,Recliner Sofa,Sofa Set,Furniture,Global Traders,368.53,512.2567,84,31,9,43,San Francisco,3.3,A stylish and comfortable sofa set designed for modern living spaces.
+PID225,L-shaped Sofa,Sofa Set,Furniture,Urban Supply Co.,113.91,158.3349,119,48,9,49,San Francisco,3.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID226,Sectional Sofa,Sofa Set,Furniture,Global Traders,1305.16,1814.1724,134,16,14,44,San Francisco,4.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID228,Chesterfield Sofa,Sofa Set,Furniture,Fast Retail,254.71,354.0469,125,34,7,81,San Francisco,3.5,A stylish and comfortable sofa set designed for modern living spaces.
+PID246,Lenovo Tab P11,Tablet,Electronics,Fast Retail,1387.88,1929.1532,51,50,13,36,San Francisco,4.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID247,Microsoft Surface Pro 9,Tablet,Electronics,Elite Distributors,668.52,929.2428,20,23,12,10,San Francisco,2.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID248,Amazon Fire HD 10,Tablet,Electronics,Global Traders,1262.12,1754.3468,32,43,14,29,San Francisco,4.3,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID250,Samsung Galaxy Tab S8,Tablet,Electronics,Global Traders,358.36,498.1204,59,6,15,20,San Francisco,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID254,iPad Pro 12.9,Tablet,Electronics,Global Traders,1210.29,1682.3031,69,30,3,60,San Francisco,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID263,Modern TV Stand,TV Stand,Furniture,Fast Retail,1072.08,1490.1912,52,26,10,42,San Francisco,3.9,A contemporary TV stand with open shelves and cable management features.
+PID265,Floating TV Stand,TV Stand,Furniture,Fast Retail,1399.39,1945.1521,106,16,5,28,San Francisco,3.7,A contemporary TV stand with open shelves and cable management features.
+PID266,Wooden TV Stand,TV Stand,Furniture,Elite Distributors,1118.78,1555.1042,108,37,6,105,San Francisco,2.7,A contemporary TV stand with open shelves and cable management features.
+PID268,Minimalist TV Stand,TV Stand,Furniture,Global Traders,1193.36,1658.7704,69,43,13,56,San Francisco,3.8,A contemporary TV stand with open shelves and cable management features.
+PID270,Glass TV Stand,TV Stand,Furniture,Urban Supply Co.,611.54,850.0406,96,33,14,63,San Francisco,4.6,A contemporary TV stand with open shelves and cable management features.
+PID285,Walk-in Wardrobe,Wardrobe,Furniture,Elite Distributors,87.61,121.7779,93,33,13,43,San Francisco,3.3,A spacious wardrobe with sliding doors and customizable storage options.
+PID287,Compact Wardrobe,Wardrobe,Furniture,Global Traders,899.44,1250.2216,64,9,6,20,San Francisco,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID288,Sliding Door Wardrobe,Wardrobe,Furniture,Urban Supply Co.,554.35,770.5465,69,44,4,65,San Francisco,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID290,Mirrored Wardrobe,Wardrobe,Furniture,Elite Distributors,1124.34,1562.8326,71,42,10,58,San Francisco,3.2,A spacious wardrobe with sliding doors and customizable storage options.
+PID293,2-Door Wardrobe,Wardrobe,Furniture,Global Traders,539.73,750.2247,97,41,5,27,San Francisco,3.4,A spacious wardrobe with sliding doors and customizable storage options.
+PID001,Metal Frame Bed,Bed Frame,Furniture,Elite Distributors,863.68,1200.5152,38,38,13,23,Seattle,2.9,A sturdy and stylish bed frame with ample storage options.
+PID002,King Size Bed,Bed Frame,Furniture,Fast Retail,1275.74,1773.2786,95,22,2,53,Seattle,3.8,A sturdy and stylish bed frame with ample storage options.
+PID003,Queen Size Bed,Bed Frame,Furniture,Global Traders,323.75,450.0125,112,22,3,52,Seattle,3.7,A sturdy and stylish bed frame with ample storage options.
+PID006,Storage Bed,Bed Frame,Furniture,Global Traders,1327.28,1844.9192,74,20,5,36,Seattle,4.5,A sturdy and stylish bed frame with ample storage options.
+PID023,JBL Charge 5,Bluetooth Speaker,Electronics,Fast Retail,185.38,257.6782,69,26,12,54,Seattle,2.5,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID024,Ultimate Ears Boom 3,Bluetooth Speaker,Electronics,Elite Distributors,1822.72,2533.5808,89,39,12,42,Seattle,3.1,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID028,Sony SRS-XB43,Bluetooth Speaker,Electronics,Urban Supply Co.,554.35,770.5465,89,24,6,66,Seattle,4.3,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID029,Bose SoundLink Revolve+,Bluetooth Speaker,Electronics,Urban Supply Co.,1592.78,2213.9642,65,19,8,24,Seattle,4,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID040,Marshall Emberton,Bluetooth Speaker,Electronics,Urban Supply Co.,452.13,628.4607,51,47,9,37,Seattle,3.7,A portable Bluetooth speaker with deep bass and excellent sound clarity.
+PID045,Wooden Bookshelf,Bookshelf,Furniture,Elite Distributors,1333.56,1853.6484,76,29,4,34,Seattle,2.9,A modern bookshelf with multiple compartments for books and decorative items.
+PID046,Metal Bookshelf,Bookshelf,Furniture,Elite Distributors,1097.59,1525.6501,125,44,7,81,Seattle,4.4,A modern bookshelf with multiple compartments for books and decorative items.
+PID049,Modular Bookshelf,Bookshelf,Furniture,Global Traders,1293.08,1797.3812,200,46,4,160,Seattle,4,A modern bookshelf with multiple compartments for books and decorative items.
+PID050,Glass Bookshelf,Bookshelf,Furniture,Elite Distributors,886.71,1232.5269,79,39,13,77,Seattle,3.7,A modern bookshelf with multiple compartments for books and decorative items.
+PID058,Wall-mounted Bookshelf,Bookshelf,Furniture,Urban Supply Co.,402.93,560.0727,44,28,11,15,Seattle,4.1,A modern bookshelf with multiple compartments for books and decorative items.
+PID068,Panasonic Lumix GH6,Camera,Electronics,Elite Distributors,808.66,1124.0374,78,19,10,25,Seattle,4.7,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID069,Fujifilm X-T5,Camera,Electronics,Urban Supply Co.,986.94,1371.8466,20,50,5,15,Seattle,3.9,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID071,Canon EOS R5,Camera,Electronics,Elite Distributors,1802.96,2506.1144,51,33,14,51,Seattle,3,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID073,Sony Alpha A7 IV,Camera,Electronics,Global Traders,1585.3,2203.567,25,18,8,7,Seattle,2.8,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID074,Nikon Z9,Camera,Electronics,Global Traders,406.17,564.5763,94,13,3,54,Seattle,4,A professional-grade camera with high-resolution imaging and video recording capabilities.
+PID085,Round Dining Table,Dining Table,Furniture,Global Traders,1473.76,2048.5264,186,40,9,68,Seattle,3.3,A durable and elegant dining table that complements any dining room decor.
+PID086,Marble Dining Table,Dining Table,Furniture,Global Traders,87.53,121.6667,112,10,13,93,Seattle,3.9,A durable and elegant dining table that complements any dining room decor.
+PID088,Glass Dining Table,Dining Table,Furniture,Global Traders,484.55,673.5245,88,24,6,45,Seattle,3.7,A durable and elegant dining table that complements any dining room decor.
+PID092,Expandable Dining Table,Dining Table,Furniture,Global Traders,375.43,521.8477,136,23,13,54,Seattle,4.8,A durable and elegant dining table that complements any dining room decor.
+PID094,Wooden Dining Table,Dining Table,Furniture,Global Traders,706.23,981.6597,54,7,11,25,Seattle,3.4,A durable and elegant dining table that complements any dining room decor.
+PID114,Apple AirPods Max,Headphones,Electronics,Global Traders,1991.36,2767.9904,47,10,15,22,Seattle,2.9,High-quality noise-canceling headphones for an immersive audio experience.
+PID115,Sony WH-1000XM5,Headphones,Electronics,Fast Retail,1135.88,1578.8732,99,28,3,64,Seattle,4.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID117,Sennheiser HD 660S,Headphones,Electronics,Global Traders,579.36,805.3104,97,36,10,95,Seattle,3.8,High-quality noise-canceling headphones for an immersive audio experience.
+PID118,JBL Tune 750,Headphones,Electronics,Elite Distributors,679.35,944.2965,51,33,6,50,Seattle,3.4,High-quality noise-canceling headphones for an immersive audio experience.
+PID121,Bose QuietComfort 45,Headphones,Electronics,Global Traders,1450.37,2016.0143,49,19,4,43,Seattle,5,High-quality noise-canceling headphones for an immersive audio experience.
+PID133,MacBook Air M2,Laptop,Electronics,Elite Distributors,992.43,1379.4777,60,33,7,21,Seattle,3.3,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID134,Dell XPS 15,Laptop,Electronics,Global Traders,885.14,1230.3446,68,46,8,19,Seattle,4.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID137,Asus ROG Strix,Laptop,Electronics,Global Traders,1296.01,1801.4539,17,24,4,8,Seattle,3.8,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID140,HP Spectre x360,Laptop,Electronics,Fast Retail,684.54,951.5106,63,40,10,50,Seattle,3.5,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID141,Lenovo ThinkPad X1,Laptop,Electronics,Urban Supply Co.,615.5,855.545,25,15,15,12,Seattle,4.9,"A powerful laptop suitable for gaming, business, and creative professionals."
+PID153,Ergonomic Mesh Chair,Office Chair,Furniture,Elite Distributors,467.07,649.2273,33,10,9,11,Seattle,4.7,An ergonomic office chair with lumbar support for all-day comfort.
+PID155,Gaming Chair,Office Chair,Furniture,Fast Retail,584.63,812.6357,101,24,15,37,Seattle,3.4,An ergonomic office chair with lumbar support for all-day comfort.
+PID156,Adjustable Office Chair,Office Chair,Furniture,Elite Distributors,994.25,1382.0075,45,12,4,29,Seattle,2.8,An ergonomic office chair with lumbar support for all-day comfort.
+PID159,Leather Executive Chair,Office Chair,Furniture,Urban Supply Co.,547.4,760.886,146,11,10,92,Seattle,4.5,An ergonomic office chair with lumbar support for all-day comfort.
+PID160,Reclining Office Chair,Office Chair,Furniture,Global Traders,936.96,1302.3744,149,44,7,100,Seattle,3.2,An ergonomic office chair with lumbar support for all-day comfort.
+PID180,Samsung Galaxy S23,Smartphone,Electronics,Urban Supply Co.,733.5,1019.565,95,27,2,36,Seattle,4.8,A high-performance smartphone with advanced camera features and long battery life.
+PID181,OnePlus 11,Smartphone,Electronics,Elite Distributors,1492.87,2075.0893,26,48,14,18,Seattle,4.4,A high-performance smartphone with advanced camera features and long battery life.
+PID185,iPhone 14,Smartphone,Electronics,Global Traders,497.05,690.8995,33,31,7,26,Seattle,5,A high-performance smartphone with advanced camera features and long battery life.
+PID186,Xiaomi Mi 13,Smartphone,Electronics,Global Traders,1404.05,1951.6295,82,36,10,51,Seattle,3.8,A high-performance smartphone with advanced camera features and long battery life.
+PID187,Google Pixel 7,Smartphone,Electronics,Global Traders,905.35,1258.4365,62,11,7,49,Seattle,2.6,A high-performance smartphone with advanced camera features and long battery life.
+PID200,Apple Watch Series 8,Smartwatch,Electronics,Fast Retail,1781.66,2476.5074,36,36,12,10,Seattle,2.8,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID201,Amazfit GTR 4,Smartwatch,Electronics,Global Traders,946.39,1315.4821,18,35,8,18,Seattle,3.3,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID202,Garmin Fenix 7,Smartwatch,Electronics,Elite Distributors,658.68,915.5652,90,47,13,56,Seattle,4.1,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID203,Fitbit Sense 2,Smartwatch,Electronics,Elite Distributors,1711.01,2378.3039,91,41,13,70,Seattle,3.4,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID204,Samsung Galaxy Watch 5,Smartwatch,Electronics,Global Traders,1540.75,2141.6425,92,6,15,92,Seattle,4.6,A sleek and feature-rich smartwatch with health tracking and notifications.
+PID223,Modular Sofa,Sofa Set,Furniture,Urban Supply Co.,447.56,622.1084,92,30,13,89,Seattle,3.1,A stylish and comfortable sofa set designed for modern living spaces.
+PID224,Recliner Sofa,Sofa Set,Furniture,Global Traders,368.53,512.2567,148,31,9,87,Seattle,3.3,A stylish and comfortable sofa set designed for modern living spaces.
+PID225,L-shaped Sofa,Sofa Set,Furniture,Urban Supply Co.,113.91,158.3349,185,48,9,133,Seattle,3.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID226,Sectional Sofa,Sofa Set,Furniture,Global Traders,1305.16,1814.1724,185,16,14,185,Seattle,4.9,A stylish and comfortable sofa set designed for modern living spaces.
+PID228,Chesterfield Sofa,Sofa Set,Furniture,Fast Retail,254.71,354.0469,59,34,7,25,Seattle,3.5,A stylish and comfortable sofa set designed for modern living spaces.
+PID246,Lenovo Tab P11,Tablet,Electronics,Fast Retail,1387.88,1929.1532,21,50,13,14,Seattle,4.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID247,Microsoft Surface Pro 9,Tablet,Electronics,Elite Distributors,668.52,929.2428,29,23,12,23,Seattle,2.8,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID248,Amazon Fire HD 10,Tablet,Electronics,Global Traders,1262.12,1754.3468,43,43,14,14,Seattle,4.3,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID250,Samsung Galaxy Tab S8,Tablet,Electronics,Global Traders,358.36,498.1204,92,6,15,30,Seattle,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID254,iPad Pro 12.9,Tablet,Electronics,Global Traders,1210.29,1682.3031,51,30,3,32,Seattle,2.6,"A lightweight tablet with a stunning display and long battery life, perfect for work and entertainment."
+PID263,Modern TV Stand,TV Stand,Furniture,Fast Retail,1072.08,1490.1912,51,26,10,42,Seattle,3.9,A contemporary TV stand with open shelves and cable management features.
+PID265,Floating TV Stand,TV Stand,Furniture,Fast Retail,1399.39,1945.1521,176,16,5,169,Seattle,3.7,A contemporary TV stand with open shelves and cable management features.
+PID266,Wooden TV Stand,TV Stand,Furniture,Elite Distributors,1118.78,1555.1042,52,37,6,14,Seattle,2.7,A contemporary TV stand with open shelves and cable management features.
+PID268,Minimalist TV Stand,TV Stand,Furniture,Global Traders,1193.36,1658.7704,169,43,13,141,Seattle,3.8,A contemporary TV stand with open shelves and cable management features.
+PID270,Glass TV Stand,TV Stand,Furniture,Urban Supply Co.,611.54,850.0406,174,33,14,61,Seattle,4.6,A contemporary TV stand with open shelves and cable management features.
+PID285,Walk-in Wardrobe,Wardrobe,Furniture,Elite Distributors,87.61,121.7779,126,33,13,69,Seattle,3.3,A spacious wardrobe with sliding doors and customizable storage options.
+PID287,Compact Wardrobe,Wardrobe,Furniture,Global Traders,899.44,1250.2216,133,9,6,69,Seattle,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID288,Sliding Door Wardrobe,Wardrobe,Furniture,Urban Supply Co.,554.35,770.5465,138,44,4,51,Seattle,3.8,A spacious wardrobe with sliding doors and customizable storage options.
+PID290,Mirrored Wardrobe,Wardrobe,Furniture,Elite Distributors,1124.34,1562.8326,128,42,10,77,Seattle,3.2,A spacious wardrobe with sliding doors and customizable storage options.
+PID293,2-Door Wardrobe,Wardrobe,Furniture,Global Traders,539.73,750.2247,111,41,5,36,Seattle,3.4,A spacious wardrobe with sliding doors and customizable storage options.
